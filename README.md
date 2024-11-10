@@ -1,4 +1,4 @@
-![AWS Data Pipeline](image-3.png)
+![AWS Data Pipeline](data pipeline.png)
 
 
 Tools to be used for the project
