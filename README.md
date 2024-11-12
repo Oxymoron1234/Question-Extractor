@@ -1,4 +1,4 @@
-[data pipeline.png](https://github.com/Oxymoron1234/Question-Extractor/blob/main/data%20pipeline.png)
+![data pipeline.png](/main/data pipeline.png)
 
 
 Tools to be used for the project
