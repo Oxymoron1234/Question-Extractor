@@ -1,4 +1,4 @@
-![data pipeline.png](/main/data pipeline.png)
+![data pipeline.png](data pipeline.png)
 
 
 Tools to be used for the project
